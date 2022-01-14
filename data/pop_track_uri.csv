@@ -1,0 +1,30 @@
+,external_urls,href,id,name,type,uri
+0,{'spotify': 'https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'},https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60,246dkjvS1zLTtiykXe5h60,Post Malone,artist,spotify:artist:246dkjvS1zLTtiykXe5h60
+1,{'spotify': 'https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'},https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,artist,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+2,{'spotify': 'https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'},https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,artist,spotify:artist:2tIP7SsRs7vjIcLrU85W8J
+3,{'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'},https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,artist,spotify:artist:1uNFoZAHBGtllmzznpCI3s
+4,{'spotify': 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'},https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,artist,spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH
+5,{'spotify': 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'},https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,artist,spotify:artist:66CXWjxzNUsdJxJ2JdwvnR
+6,{'spotify': 'https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'},https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,artist,spotify:artist:6eUKZXaKkcviH0Ku9w2n3V
+7,{'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'},https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02,06HL4z0CvFAxyc27GXpf02,Taylor Swift,artist,spotify:artist:06HL4z0CvFAxyc27GXpf02
+8,{'spotify': 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'},https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,artist,spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx
+9,{'spotify': 'https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81'},https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81,5ZsFI1h6hIdQRw2ti0hz81,ZAYN,artist,spotify:artist:5ZsFI1h6hIdQRw2ti0hz81
+10,{'spotify': 'https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b'},https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b,3PhoLpVuITZKcymswpck5b,Elton John,artist,spotify:artist:3PhoLpVuITZKcymswpck5b
+11,{'spotify': 'https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'},https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,artist,spotify:artist:6M2wZ9GZgrQXHCFfjv46we
+12,{'spotify': 'https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u'},https://api.spotify.com/v1/artists/6n28c9qs9hNGriNa72b26u,6n28c9qs9hNGriNa72b26u,PNAU,artist,spotify:artist:6n28c9qs9hNGriNa72b26u
+13,{'spotify': 'https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'},https://api.spotify.com/v1/artists/4IJczjB0fJ04gs4uvP0Fli,4IJczjB0fJ04gs4uvP0Fli,Gym Class Heroes,artist,spotify:artist:4IJczjB0fJ04gs4uvP0Fli
+14,{'spotify': 'https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n'},https://api.spotify.com/v1/artists/4bYPcJP5jwMhSivRcqie2n,4bYPcJP5jwMhSivRcqie2n,Adam Levine,artist,spotify:artist:4bYPcJP5jwMhSivRcqie2n
+15,{'spotify': 'https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6'},https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,artist,spotify:artist:5YGY8feqx7naU7z4HrwZM6
+16,{'spotify': 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'},https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,artist,spotify:artist:7n2wHs1TKAczGzO7Dd2rGr
+17,{'spotify': 'https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'},https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60,246dkjvS1zLTtiykXe5h60,Post Malone,artist,spotify:artist:246dkjvS1zLTtiykXe5h60
+18,{'spotify': 'https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'},https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,artist,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+19,{'spotify': 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'},https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,artist,spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH
+20,{'spotify': 'https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny'},https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny,6LuN9FCkKOj5PcnpouEgny,Khalid,artist,spotify:artist:6LuN9FCkKOj5PcnpouEgny
+21,{'spotify': 'https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp'},https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,artist,spotify:artist:6S2OmqARrzebs0tKUEyXyp
+22,{'spotify': 'https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI'},https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI,2wY79sveU1sp5g7SokKOiI,Sam Smith,artist,spotify:artist:2wY79sveU1sp5g7SokKOiI
+23,{'spotify': 'https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5'},https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,artist,spotify:artist:5cj0lLjcoR7YOSnhnX0Po5
+24,{'spotify': 'https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq'},https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,artist,spotify:artist:7jVv8c5Fj3E9VhNjxT4snq
+25,{'spotify': 'https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ'},https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,artist,spotify:artist:2LIk90788K0zvyj2JJVwkJ
+26,{'spotify': 'https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z'},https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,artist,spotify:artist:7bXgB6jMjp9ATFy66eO08Z
+27,{'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'},https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4,3TVXtAsR1Inumwj472S9r4,Drake,artist,spotify:artist:3TVXtAsR1Inumwj472S9r4
+28,{'spotify': 'https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG'},https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,artist,spotify:artist:1McMsnEElThX1knmY4oliG
