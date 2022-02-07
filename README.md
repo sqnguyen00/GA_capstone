@@ -43,7 +43,14 @@ Using the Spotify API, 82,000+ songs were pulled from the database. The process 
 
 ### Modeling & Transformation
 The first way to look at recommendinding songs is through the cosine similarities on a matrix. Taking each row and standardizing the data should give a prediction on the most similar songs. The matrix comes out to about 6.7 million calculations. The following figure gives a representation of the matrix. 
-![plot](./figures/matrix.png)
+
+|Song|song_1|song_2|song_3|song_4|song_5|
+|---|---|---|---|---|---|
+|song_1|1.0|0.6|0.8|0.4|0.0|
+|song_2|0.6|1.0|0.5|0.9|0.2|
+|song_3|0.8|.5|1.0|0.7|0.7|
+|song_4|0.4|0.9|0.7|1.0|0.3|
+|song_5|0.0|0.2|0.7|0.3|1.0| 
 
 Inputting a song into the matrix will return the similarity scores of the songs. Ordering similarities in the dataframe by decending order will give the closest reccomendations to the inputted song
 
@@ -64,9 +71,9 @@ The second plot shows the reduction in dimensionality and how the data was then 
 ### Conclusion
 Modeling a cold start recomendation system is very difficult, but I found that manipulation and transforming the data can be a great first step to creating a great recommendation system. Using PCA, we can reduce high dimensional data for the K-means algorithm. Once we are able to cluster, we can find the closest points in the cluster and make a recommendation.
 
-|Method|Features|Number of K's|Inertia|Silhouette Score|
-|---|---|---|---|---|
-|K-means|2 primary features|2|70854.65|0.37|
-|K-means|10 primary features|2|849443.70|0.23|
-|PCA, K-means|10 primary features reduced to 2 components|3|61323.30|.40|
-|PCA, K-means|10 primary + vectorized genres, reduce to 5 components|3|256750.22|.99|
+|Rank|Method|Features|Number of K's|Inertia|Silhouette Score|
+|---|---|---|---|---|---|
+|T3|K-means|2 primary features|2|70854.65|0.37|
+|T3|K-means|10 primary features|2|849443.70|0.23|
+|2|PCA, K-means|10 primary features reduced to 2 components|3|61323.30|.40|
+|1|PCA, K-means|10 primary + vectorized genres, reduce to 5 components|3|256750.22|.99|
